@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T11:06:39 IST" name="Suite" finished-at="2023-07-14T11:07:29 IST" duration-ms="49580">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T11:06:39 IST" name="Test 1" finished-at="2023-07-14T11:07:02 IST" duration-ms="23526">
+      <class name="mainRunPage.deliveryPageRun">
+        <test-method signature="browserAccess()[pri:0, instance:mainRunPage.deliveryPageRun@5e840abf]" started-at="2023-07-14T11:06:39 IST" name="browserAccess" finished-at="2023-07-14T11:06:42 IST" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAccess -->
+        <test-method signature="userSelectBranch()[pri:0, instance:mainRunPage.deliveryPageRun@5e840abf]" started-at="2023-07-14T11:06:42 IST" name="userSelectBranch" finished-at="2023-07-14T11:06:44 IST" duration-ms="2222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSelectBranch -->
+        <test-method signature="enterDeliveryDetails()[pri:0, instance:mainRunPage.deliveryPageRun@5e840abf]" started-at="2023-07-14T11:06:44 IST" name="enterDeliveryDetails" finished-at="2023-07-14T11:07:02 IST" duration-ms="18099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDeliveryDetails -->
+        <test-method signature="clkOnSubmitBtn()[pri:0, instance:mainRunPage.deliveryPageRun@5e840abf]" started-at="2023-07-14T11:07:02 IST" name="clkOnSubmitBtn" finished-at="2023-07-14T11:07:02 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clkOnSubmitBtn -->
+      </class> <!-- mainRunPage.deliveryPageRun -->
+    </test> <!-- Test 1 -->
+    <test started-at="2023-07-14T11:07:03 IST" name="Test 2" finished-at="2023-07-14T11:07:29 IST" duration-ms="25989">
+      <class name="mainRunPage.PickUpPageRun">
+        <test-method signature="launchApp()[pri:0, instance:mainRunPage.PickUpPageRun@215a34b4]" started-at="2023-07-14T11:07:03 IST" name="launchApp" finished-at="2023-07-14T11:07:05 IST" duration-ms="2632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="clkOnBranch()[pri:0, instance:mainRunPage.PickUpPageRun@215a34b4]" started-at="2023-07-14T11:07:05 IST" name="clkOnBranch" finished-at="2023-07-14T11:07:07 IST" duration-ms="2253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clkOnBranch -->
+        <test-method signature="clkOnPickUpBtn()[pri:0, instance:mainRunPage.PickUpPageRun@215a34b4]" started-at="2023-07-14T11:07:07 IST" name="clkOnPickUpBtn" finished-at="2023-07-14T11:07:13 IST" duration-ms="5183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clkOnPickUpBtn -->
+        <test-method signature="enterPickUpDetails()[pri:0, instance:mainRunPage.PickUpPageRun@215a34b4]" started-at="2023-07-14T11:07:13 IST" name="enterPickUpDetails" finished-at="2023-07-14T11:07:28 IST" duration-ms="15424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPickUpDetails -->
+        <test-method signature="clkOnPickUpSbmtBtn()[pri:0, instance:mainRunPage.PickUpPageRun@215a34b4]" started-at="2023-07-14T11:07:28 IST" name="clkOnPickUpSbmtBtn" finished-at="2023-07-14T11:07:29 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clkOnPickUpSbmtBtn -->
+      </class> <!-- mainRunPage.PickUpPageRun -->
+    </test> <!-- Test 2 -->
+  </suite> <!-- Suite -->
+</testng-results>
